@@ -17,3 +17,7 @@
 - tensorflow
 - collections
 - ipython
+
+[How to use]
+- model trian : python speech_emotion.py
+- model evaluate : python speech_analysis.py
