@@ -1,5 +1,5 @@
 [File/Directory structure]
-- Readme.md
+- Readme.txt
 - model.h5 : Trained model
 - speech_emotion.py : Extract speaker's emotion
 - new_dataset
@@ -17,3 +17,7 @@
 - tensorflow
 - collections
 - ipython
+
+[How to use]
+- model trian : python speech_emotion.py
+- model evaluate : python speech_analysis.py
