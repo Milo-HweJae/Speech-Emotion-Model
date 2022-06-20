@@ -1,5 +1,5 @@
 [File/Directory structure]
-- Readme.md
+- Readme.txt
 - model.h5 : Trained model
 - speech_emotion.py : Extract speaker's emotion
 - new_dataset
